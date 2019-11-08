@@ -1,1 +1,1 @@
-# Permutation-and-Comnietrics-Calculator
+# Permutation-and-Combinetrics-Calculator
